@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Simple, powerful and versatile Telegram web scraping bot. Extracts full content, links, images, audio, video, PDFs, cookies, localStorage, metadata, screenshots, recordings and crawls entire websites.
+  name: WebscraperBot version: 1.0 type: Repository author: VarshuAi description: >   Simple, powerful and versatile Telegram web scraping bot. Extracts full content, links, images, audio, video, PDFs, cookies, localStorage, metadata, screenshots, recordings and crawls entire websites. primary_tech: Python
 primary_tech: Python
 ```
 
