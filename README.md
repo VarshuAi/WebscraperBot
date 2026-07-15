@@ -3,8 +3,8 @@
 
 <img src="https://raw.githubusercontent.com/VarshuAi/VarshuAi/main/assets/boot.svg" width="100%"/>
 
-![Theme](https://img.shields.io/badge/Wednesday-NeonArc_OS-FF00FF?style=flat-square&labelColor=0D1117)
-![Distro](https://img.shields.io/badge/VarshuOS-Glitch-DA70D6?style=flat-square&labelColor=0D1117)
+![Theme](https://img.shields.io/badge/Thursday-ForestRoot_OS-00FF41?style=flat-square&labelColor=0D1117)
+![Distro](https://img.shields.io/badge/VarshuOS-Banyan-A8E6CF?style=flat-square&labelColor=0D1117)
 
 </div>
 
